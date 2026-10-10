@@ -2,8 +2,6 @@
 
 **A marketplace that connects companies who need vehicles moved with verified drivers who move them.**
 
-For rental firms, dealers and fleet owners who need cars relocated, and for drivers looking for paid one-way trips.
-
 **Status:** working prototype, tested with sample data only.
 
 <!-- progress:start -->
@@ -12,31 +10,29 @@ For rental firms, dealers and fleet owners who need cars relocated, and for driv
 `▓▓▓▓▓▓░░░░ 63% (17/27 tasks)`
 <!-- progress:end -->
 
-## Results so far
+## The story
 
-Tested end to end with sample accounts (no real people or documents):
+Rental firms, dealers and fleet owners constantly need cars moved from one city to another. Finding a trustworthy driver, checking their documents and making sure the car really arrived is slow and full of phone calls.
 
-- Companies list vehicles with photos; drivers browse, reserve and upload their documents.
-- Companies review each reservation within a set time; reservations expire or can be cancelled.
-- Delivery is confirmed by both sides, with problems escalated to an administrator.
-- Separate areas for drivers, companies and administrators, with audited access to documents and simple exports.
+Vehicle Transfer puts it in one place. A company lists the vehicle and the route. Verified drivers browse open transfers, reserve one and upload their documents. The company approves the driver, both sides confirm the handover and the delivery, and any problem goes straight to an administrator.
 
-## Roadmap
+The result: companies get cars moved without the chase, drivers find paid one-way trips, and every step is recorded.
 
-**Done**
-- Sign-in and roles
-- Listings and company area
-- Finding and booking a transfer
-- Full booking lifecycle with handover checks
-- Company and administrator operations
-- Launch-readiness checks
-- In-app chat and driver verification
+## What it does
 
-**Next**
-- Remaining open decisions and polish
+- Companies list vehicles with photos and routes
+- Drivers browse, reserve and upload their documents
+- Companies review each reservation within a set time
+- Handover and delivery confirmed by both sides
+- Problems escalated to an administrator
+- Separate areas for drivers, companies and administrators
 
-**Later**
+## Future plans
+
+- Remaining polish before launch
 - Public launch
+- In-app chat between company and driver
+- Faster driver verification
 
 ---
 
