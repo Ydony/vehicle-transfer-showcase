@@ -7,7 +7,9 @@ For rental firms, dealers and fleet owners who need cars relocated, and for driv
 **Status:** working prototype, tested with sample data only.
 
 <!-- progress:start -->
-x
+![progress](https://img.shields.io/badge/progress-63%25-2ea44f)
+
+`▓▓▓▓▓▓░░░░ 63% (17/27 tasks)`
 <!-- progress:end -->
 
 ## Results so far
